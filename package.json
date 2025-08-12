@@ -1,0 +1,27 @@
+{
+    "name": "master-nextjs",
+    "version": "1.0.0",
+    "description": "NextJs Tutorial by Codevolution",
+    "main": "index.js",
+    "scripts": {
+        "serve": "browser-sync dist -w",
+        "build": "node md-to-html.js notes dist \"Master NextJs\" true",
+        "clean": "rm -rf dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/avionics18/master-nextjs.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/avionics18/master-nextjs/issues"
+    },
+    "homepage": "https://github.com/avionics18/master-nextjs#readme",
+    "dependencies": {
+        "marked": "^16.1.2",
+        "marked-gfm-heading-id": "^4.1.2"
+    }
+}
