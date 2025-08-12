@@ -1,6 +1,6 @@
 # L01 - Introduction to Next.js
 
--   **Next.js is a React framework for building full-stack web applications**.
+> **Next.js is a React framework for building full-stack web applications**.
 -   It extends React by providing additional features for production-ready apps, such as routing, optimized rendering, data fetching, bundling, and compiling.
 -   It simplifies web development by offering features like:
 
