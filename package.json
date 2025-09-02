@@ -4,7 +4,7 @@
     "description": "NextJs Tutorial by Codevolution",
     "main": "index.js",
     "scripts": {
-        "serve": "browser-sync dist -w",
+        "serve": "servor dist --browse",
         "build": "node md-to-html.js notes dist \"Master NextJs\" true",
         "clean": "rm -rf dist"
     },
