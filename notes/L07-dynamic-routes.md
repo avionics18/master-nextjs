@@ -1,4 +1,4 @@
-## L07 - Dynamic Routes
+# L07 - Dynamic Routes
 
 Next.js introduces **dynamic route segments** to handle URLs that contain variable parts, which is crucial for applications with numerous items like products or blog posts. This method is more practical than creating a separate folder for each item, especially when dealing with hundreds or thousands of entries.
 

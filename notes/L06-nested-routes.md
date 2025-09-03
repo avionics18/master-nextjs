@@ -1,4 +1,4 @@
-## L06 - Nested Routes
+# L06 - Nested Routes
 
 Next.js leverages its file-based routing system to make nested routes exceptionally straightforward to implement, automatically mirroring your folder structure in the URLs.
 
@@ -43,6 +43,7 @@ Let's break down how to create a main blog page and two nested blog post pages:
         -   Navigating to `localhost:3000/blog/first` will now render "First blog post".
 
     -   **For `/blog/second`:**
+
         -   Similarly, inside the `blog` folder, **create another new folder named `second`**.
         -   Inside this `second` folder, create a **`page.tsx` file**.
         -   Default export its specific React component.

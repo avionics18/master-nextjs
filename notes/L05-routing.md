@@ -1,4 +1,4 @@
-## L05 - Routing Fundamentals
+# L05 - Routing Fundamentals
 
 Next.js utilizes a **file system-based routing system**, where the URLs accessible in your browser are determined by the organization of your files and folders in your code. This approach emphasizes **conventions over configuration**, meaning you don't typically need to install or configure a separate router.
 
