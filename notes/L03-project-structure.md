@@ -53,7 +53,7 @@ This tutorial explains the structure of a Next.js project, detailing the purpose
     -   This file creates **what you see at `localhost:3000`**.
     -   It's the file that was tweaked earlier to display "Hello World".
     -   The **home component defined here slots into `layout.tsx`** as a `children` prop to create the complete UI.
-    -   Might include `Guist font` import, either as a Google font or local font, which doesn't affect core learning.
+    -   Might include `Geist font` import, either as a Google font or local font, which doesn't affect core learning.
 
 #### **5. Application Execution Flow**
 
